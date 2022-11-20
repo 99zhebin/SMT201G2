@@ -1,0 +1,163 @@
+fid,school_name,address,postal_code,mrt_desc,bus_desc,dgp_code,zone_code,mainlevel_code,Country,City
+1,ADMIRALTY PRIMARY SCHOOL,11   WOODLANDS CIRCLE,738907,Admiralty Station,"TIBS 965, 964, 913",WOODLANDS,NORTH,PRIMARY,Singapore,Singapore
+2,AHMAD IBRAHIM PRIMARY SCHOOL,10   YISHUN STREET 11,768643,Yishun,"Yishun Ring Road - 812 (white plate); Yishun Ave 2 - 169, 804, 965, 117, 883",YISHUN,NORTH,PRIMARY,Singapore,Singapore
+3,AI TONG SCHOOL,100  Bright Hill Drive,579646,Bishan MRT,"410, 162, 52",BISHAN,SOUTH,PRIMARY,Singapore,Singapore
+4,ALEXANDRA PRIMARY SCHOOL,2A   Prince Charles Crescent,159016,Redhill Station  Tiong Bahru Station,"51, 122, 139, 186, 970.",BUKIT MERAH,SOUTH,PRIMARY,Singapore,Singapore
+5,ANCHOR GREEN PRIMARY SCHOOL,31   Anchorvale Drive,544969,MRT : NE16-Sengkang LRT : SW7-TongKang,"Bus 372, 110, 50",SENG KANG,NORTH,PRIMARY,Singapore,Singapore
+6,ANDERSON PRIMARY SCHOOL,19   ANG MO KIO AVE 9,569785,Yio Chu Kang MRT Station,"Ang Mo Kio Ave 9 - Bus 76, 265, 268",ANG MO KIO,NORTH,PRIMARY,Singapore,Singapore
+7,ANG MO KIO PRIMARY SCHOOL,20   ANG MO KIO AVENUE 3,569920,Ang Mo Kio MRT Station,"76,132,165,166,169,200,000,000",ANG MO KIO,SOUTH,PRIMARY,Singapore,Singapore
+8,ANGLO-CHINESE SCHOOL (JUNIOR),16   WINSTEDT ROAD,227988,Newton MRT Station,"5, 54, 124, 143, 162, 162M, 167, 167e, 518, 518A, 972M",CENTRAL,SOUTH,PRIMARY,Singapore,Singapore
+9,ANGLO-CHINESE SCHOOL (PRIMARY),50   BARKER ROAD,309918,Newton MRT Station,"Bus 48, 66, 67, 170, 603, 972M",NOVENA,SOUTH,PRIMARY,Singapore,Singapore
+10,ANGSANA PRIMARY SCHOOL,3    Tampines Street 22,529366,Tampines and Simei Stations,"Bus Service 8, 17, 18, 20, 28, 34, 39, 59, 518, Feeder Bus Service 292",TAMPINES,EAST,PRIMARY,Singapore,Singapore
+11,BEACON PRIMARY SCHOOL,36   Bukit Panjang Ring Road,679944,"Bangkit LRT, Fajar LRT Station","920, 922, 971, 972, 972A, 972M, 976",BUKIT PANJANG,WEST,PRIMARY,Singapore,Singapore
+12,BEDOK GREEN PRIMARY SCHOOL,1    BEDOK SOUTH AVE 2,469317,"Bedok MRT Station, Tanah Merah MRT Station","Bus No. 2, 9, 12, 24, 31, 34 & 38",BEDOK,EAST,PRIMARY,Singapore,Singapore
+13,BENDEMEER PRIMARY SCHOOL,91   BENDEMEER ROAD,339948,"Boon Keng, Kallang","13 23 31 61 64 65 65M 66 125, 125X ,133,140,147,853,857,985",KALLANG,SOUTH,PRIMARY,Singapore,Singapore
+14,BLANGAH RISE PRIMARY SCHOOL,91   TELOK BLANGAH HEIGHTS,109100,"Telok Blangah, Tiong Bahru & Redhill",SBS 273 & 124,BUKIT MERAH,SOUTH,PRIMARY,Singapore,Singapore
+15,BOON LAY GARDEN PRIMARY SCHOOL,20   BOON LAY DRIVE,649930,Lakeside & Boon Lay,"30,99,154,178,180,187,240,246",JURONG WEST,WEST,PRIMARY,Singapore,Singapore
+16,BUKIT PANJANG PRIMARY SCHOOL,109  CASHEW ROAD,679676,From Pending LRT station to Choa Chu Kang MRT station,"75, 184",BUKIT PANJANG,WEST,PRIMARY,Singapore,Singapore
+17,BUKIT TIMAH PRIMARY SCHOOL,111  Lorong Kismis,598112,"Beauty World, Bukit Batok and Clementi Stations",173,BUKIT TIMAH,WEST,PRIMARY,Singapore,Singapore
+18,BUKIT VIEW PRIMARY SCHOOL,18   BUKIT BATOK STREET 21,659634,Bukit Batok MRT Station,"173,157,178,852,66,106,61,506,963,77",BUKIT BATOK,WEST,PRIMARY,Singapore,Singapore
+19,CANBERRA PRIMARY SCHOOL,21   ADMIRALTY DRIVE,757714,Sembawang MRT Station,Bus No. 859,SEMBAWANG,NORTH,PRIMARY,Singapore,Singapore
+20,CANOSSA CATHOLIC PRIMARY SCHOOL,1    Sallim Road,387621,Nearest MRT station: Mattar Station (about 7-minute walk),"Aljunied Road (same side as CCPS): 62, 64, 100    Aljunied Road (opposite CCPS): 61, 62, 64, 66, 100, 135, 154, 155    Merpati Rd (after Jln Anggerek): 40, 61, 63, 65, 66, 135,",GEYLANG,EAST,PRIMARY,Singapore,Singapore
+21,CANTONMENT PRIMARY SCHOOL,1    Cantonment Close,88256,Tanjong Pagar Outram Park,"75, 167, 196",BUKIT MERAH,SOUTH,PRIMARY,Singapore,Singapore
+22,CASUARINA PRIMARY SCHOOL,30   PASIR RIS ST 41,518935,Pasir Ris MRT Station,"Nos. 12, 21 & 358",PASIR RIS,EAST,PRIMARY,Singapore,Singapore
+23,CEDAR PRIMARY SCHOOL,15   CEDAR AVENUE,349700,Potong Pasir MRT Station,"8, 61, 64, 65, 66, 66A, 90, 90A, 100, 135, 151, 154, 155",TOA PAYOH,SOUTH,PRIMARY,Singapore,Singapore
+24,CHANGKAT PRIMARY SCHOOL,11   SIMEI ST 3,529896,Simei MRT Station,"9,38,5",TAMPINES,EAST,PRIMARY,Singapore,Singapore
+25,CHIJ (KATONG) PRIMARY,17   MARTIA ROAD,424821,EUNOS PAYA LEBAR,"15, 55, 36, 16, 135, 197, 196, 31, 13, 76, 12, 10, 14, 32, 40",BEDOK,EAST,PRIMARY,Singapore,Singapore
+26,CHIJ (KELLOCK),1    Bukit Teresa Road,99757,Outram Park Station,"61, 124, 143, 166",BUKIT MERAH,SOUTH,PRIMARY,Singapore,Singapore
+27,CHIJ OUR LADY OF GOOD COUNSEL,2C   Burghley Drive,558979,"Ang Mo Kio MRT, Bishan MRT, Serangoon MRT station.","317 Feeder Bus Service from Serangoon Interchange. 135,136 from Ang Mo Kio Interchange.",SERANGOON,SOUTH,PRIMARY,Singapore,Singapore
+28,CHIJ OUR LADY OF THE NATIVITY,1257 UPPER SERANGOON ROAD,534793,Hougang MRT,"74, 102, 112, 113, 119, 136, 147, 324, 672",HOUGANG,SOUTH,PRIMARY,Singapore,Singapore
+29,CHIJ OUR LADY QUEEN OF PEACE,4    Chestnut Drive,679287,Cashew and Hillview,"180, 67, 171, 176, 177, 178, 184, 961, 963, 970",BUKIT PANJANG,WEST,PRIMARY,Singapore,Singapore
+30,CHIJ PRIMARY (TOA PAYOH),628  Lorong 1 Toa Payoh,319765,Toa Payoh,"59, 231, 141",TOA PAYOH,SOUTH,PRIMARY,Singapore,Singapore
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
